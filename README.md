@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Elias Cassimiro, tenho 24 anos e sou natural de Cândido Mota/SP. Sou graduado em Ciência da Computação pela FEMA e atuo na área de tecnologia prestando suporte a sistemas, auxiliando usuários na resolução de problemas e garantindo o bom funcionamento das soluções utilizadas no dia a dia. 
+Me chamo Elias Cassimiro, tenho 24 anos e sou natural de Cândido Mota/SP. Sou graduado em Ciência da Computação pela FEMA e atuo na área de tecnologia, prestando suporte a sistemas, auxiliando usuários na resolução de problemas e garantindo o bom funcionamento das soluções utilizadas no dia a dia. Busco continuar evoluindo profissionalmente na área de TI por meio de cursos, aprimorando constantemente meus conhecimentos e habilidades. 
 
 <p align="left">
     <a href="https://github.com/EliasCassimiro?tab=repositories&sort=stargazers">
