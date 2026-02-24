@@ -1,6 +1,6 @@
 # 👨🏽‍💻 Elias Cassimiro
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Elias Cassimiro, tenho 24 anos e sou natural de Cândido Mota/SP. Concluí o ensino superior na FEMA, com o curso de Ciência da Computação. Atualmente, estou atuo na área com suporte de sistemas. 
 
